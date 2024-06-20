@@ -16,7 +16,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #fff;
+    background-color: #e4faff;
     color: #000;
     font-size: 1.25em;
     font-family: "Lato", sans-serif;
@@ -42,7 +42,6 @@ footer {
     width: 100%;
     position: absolute;
     bottom: 0;
-    background-color: #fff;
 }
 
 .company-name {
@@ -52,7 +51,6 @@ footer {
     
 .separator {
     margin: 0 0.5em;
-    color: rgb(183, 183, 183);
 }
 
 .tagline {
